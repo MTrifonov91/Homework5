@@ -22,7 +22,7 @@ public class Calculator {
         int b = in.nextInt();
         System.out.println("A + B = " + (a + b) );
         System.out.println("A - B = " + (a - b) );
-        
+        System.out.println("A * B = " + (a * b) );
         // TODO code application logic here
         
     }
